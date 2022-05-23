@@ -29,3 +29,11 @@ Booked flights are shown in the Flight History section after logged in.
 
 https://user-images.githubusercontent.com/77988736/169815246-4bb0ebdd-6c26-4644-b652-2ae6a159f24f.mp4
 
+# Important Note
+As this is an in-class project, the  database on the cloud only lasted for the duration of the class, and it was deleted on May 23, 2022. For future use of the application, one will need to manually create a new MySQL database instance with the follwing schemas:
+
+For 'flight' table:
+![flight_config](https://user-images.githubusercontent.com/77988736/169819085-7fe60822-93fd-47a9-b127-aa7676a1c093.png)
+
+For 'users' table:
+![users_config](https://user-images.githubusercontent.com/77988736/169819126-8fc52fd0-0440-4ae8-afb7-aeff1b864f3e.png)
